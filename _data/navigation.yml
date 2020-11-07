@@ -1,13 +1,11 @@
 # main links
 main:
-  - title: "projects"
+  - title: "Projects"
     url: /projects
-  - title: "robotics"
-    url: /robotics
-  - title: "PCB design"
-    url: /pcb
-  - title: "PCB design"
-    url: /pcb
+  - title: "Posts"
+    url: /posts
+  - title: "Github"
+    url: https://github.com/TylerJulian
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
