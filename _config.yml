@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Tyler Julian"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a electrical and computer engineering graduate student at the Universit of Oklahoma specializing in hardware design and embedded systems."
+  bio              : "I am a electrical and computer engineering graduate student at the University of Oklahoma specializing in hardware design and embedded systems."
   location         : "Norman, Oklahoma"
   email            : "tyler.james.julian@ou.edu"
   links:
