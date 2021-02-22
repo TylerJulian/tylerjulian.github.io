@@ -36,8 +36,8 @@ The Intelligent Ground Vehicle Competition (IGVC) is an annual international rob
 ## What I did
 
   * [Remote Esop](/estop/)
-  * [Lane Detection using Opencb](https://youtu.be/HTCsrg1DRTg)
-  * [Custom stm32 MCU PCB with on-board CAN-bus Transceivver](/stm32/)
+  * [Lane Detection using Opencv](https://youtu.be/HTCsrg1DRTg)
+  * [Custom stm32 MCU PCB with on-board CAN-bus Transceiver](/stm32/)
   * Power Distribution
 
   {% include gallery caption="Gallery of SCR IGVC" %}
