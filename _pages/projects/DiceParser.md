@@ -1,7 +1,7 @@
 ---
-title: "insert title"
+title: "Dice parser"
 layout: categories
-permalink: /template/
+permalink: /dice_Hacklahoma/
 collection: categories
 entries_layout: grid
 classes: wide
