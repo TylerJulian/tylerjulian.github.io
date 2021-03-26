@@ -40,4 +40,6 @@ The Intelligent Ground Vehicle Competition (IGVC) is an annual international rob
   * [Custom stm32 MCU PCB with on-board CAN-bus Transceiver](/stm32/)
   * Power Distribution
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HTCsrg1DRTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   {% include gallery caption="Gallery of SCR IGVC" %}
