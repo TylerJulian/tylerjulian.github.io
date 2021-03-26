@@ -1,7 +1,7 @@
 ---
 title: "Dice parser"
 layout: categories
-permalink: /dice_Hacklahoma/
+permalink: /dice/
 collection: categories
 entries_layout: grid
 classes: wide
