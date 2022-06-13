@@ -5,7 +5,7 @@ permalink: /projects/
 collection: archive
 entries_layout: grid
 classes: wide
-date: 2020-11-03T18:38:52+00:00
+date: 2022-06-13T18:38:52+00:00
 
 
 ---
