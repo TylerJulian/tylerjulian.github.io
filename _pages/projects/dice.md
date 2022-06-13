@@ -32,5 +32,4 @@ Hacklahoma is a yearly hackathon hosted by the University of Oklahoma. For the 2
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-TkoiPPEGek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 {% include gallery caption="Gallery of Hacklahoma 2021 screenshots." %}
