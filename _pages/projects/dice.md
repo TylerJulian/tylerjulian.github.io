@@ -26,8 +26,6 @@ gallery:
   - url: /assets/img/dice_num3.jpg
     image_path: /assets/img/dice_num3.jpg
     alt: "Dice parsing setupt"
-
-	
 ---
 
 Hacklahoma is a yearly hackathon hosted by the University of Oklahoma. For the 2020 and 2021 years, I wrote software to read and interpret dice. In 2020, The software read 6 sided dice with pips. The 2021 year, The software was redesigned to use the tesseract library for Optical character recognition. The dice parser then sent the data to the character page in our web app.
