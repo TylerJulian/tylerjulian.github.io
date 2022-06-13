@@ -10,7 +10,7 @@ date: 2022-06-13T18:38:52+00:00
 
 ---
 
-These are the various projects that I have worked on for school, robotics, or during my free time for fun! 
+This page is a list of my various projects that I have worked on for fun! The list includes projects for school, robotics, hobbies, and work.
 
 <h2>Pages</h2>
 {% for post in site.pages %}
