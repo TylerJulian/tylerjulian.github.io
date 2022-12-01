@@ -1,0 +1,19 @@
+---
+title: "Sooner Competitive Robotics"
+layout: categories
+permalink: /SCR/
+collection: categories
+entries_layout: grid
+classes: wide
+sitemap: false
+date: 2020-11-07T18:38:52+00:00
+
+excerpt: "Sooner Competitive Robotics (SCR) has been a major part of my life since I started my undergraduate degree in Fall of 2016."
+header:
+  teaser: /assets/img/img_6.jpg
+sidebar:
+  - title: "insert sidebar title"
+    text: "insert text"
+    
+---
+

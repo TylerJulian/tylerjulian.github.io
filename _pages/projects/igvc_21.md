@@ -1,7 +1,7 @@
 ---
 title: "IGVC"
 layout: categories
-permalink: /igvc/
+permalink: /igvc21/
 collection: categories
 entries_layout: grid
 classes: wide
