@@ -96,13 +96,13 @@ analytics:
 author:
   name             : "Tyler Julian"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a electrical and computer engineering graduate student at the University of Oklahoma specializing in hardware design and embedded systems."
+  bio              : "I am an electrical engineer that specializes in hardware design and embedded systems. I graduated with my master's degree in electrical and computer engineering in the fall of 2022."
   location         : "Norman, Oklahoma"
-  email            : "tyler.james.julian@ou.edu"
+  email            : "tyler.james.julian@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:tyler.james.julian@ou.edu"
+      #url: "mailto:tyler.james.julian@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://tylerjulian.com"
