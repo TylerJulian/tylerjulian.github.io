@@ -20,7 +20,7 @@ feature_row:
     url: "/Toaster/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-    toaster
+    
 
 ---
 
