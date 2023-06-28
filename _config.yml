@@ -268,6 +268,9 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
+  test:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
