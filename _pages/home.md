@@ -7,7 +7,7 @@ feature_row:
   - image_path: /assets/img/SCR_Gear_23_Wide_Red_on_Transparent.png
     alt: "SCR"
     title: "Sooner Competitive Robotics"
-    excerpt: "I am currently a mentor for Sooner Competitive Robotics at the University of Oklahoma."
+    excerpt: "I am a mentor for Sooner Competitive Robotics at the University of Oklahoma."
     url: "/SCR/"
     btn_class: "btn--small"
     btn_label: "Learn more"  
