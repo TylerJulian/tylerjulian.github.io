@@ -10,11 +10,7 @@ date: 2020-11-07T18:38:52+00:00
 
 excerpt: "Sooner Competitive Robotics (SCR) has been a major part of my life since I started my undergraduate degree in Fall of 2016."
 header:
-  teaser: /assets/img/img_6.jpg
-sidebar:
-  - title: "insert sidebar title"
-    text: "insert text"
-    
+  teaser: /assets/img/SCR_Gear_23_Wide_Red_on_Transparent.png
 ---
 
 I joined Sooner Competitive Robotics (SCR) during my freshman year in 2016 and contributed to the mechanical, electrical, and software teams until I graduated with my master's degree in 2022. After graduation, I became a mentor for their various competition teams. The organization is composed of 20-30 engineering students whose goal is to build robots for various competitions (IGVC and Roboboat)
