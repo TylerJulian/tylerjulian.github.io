@@ -3,11 +3,7 @@ title: "First post!"
 categories:
   - test
 tags:
-  - content
-  - css
-  - test
-  - lists
-  - markup
+  - website
 ---
 
 Woohoo, this is my first post on my website. Hopefully I will keep on updating the pages

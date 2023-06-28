@@ -2,7 +2,7 @@
 title: "insert title"
 layout: categories
 permalink: /template/
-collection: categories
+collection: test
 entries_layout: grid
 classes: wide
 sitemap: false
