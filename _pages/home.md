@@ -20,8 +20,12 @@ feature_row:
     url: "/Toaster/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-    
+carousels:
+  - images: 
+    - image: /img/beeclick_toast.jpg
+    - image: /img/person_1_sq.jpg.jpg
 
 ---
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 {% include feature_row %}
