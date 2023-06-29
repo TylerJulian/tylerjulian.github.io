@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: home
 permalink: /
 hidden: true
 excerpt: home page
