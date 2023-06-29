@@ -1,9 +1,13 @@
 ---
-layout: home
+layout: splash
 permalink: /
 hidden: true
 excerpt: home page
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+
 feature_row:
   - image_path: /assets/img/scr.png
     alt: "SCR"
@@ -20,12 +24,7 @@ feature_row:
     url: "/Toaster/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-carousels:
-  - images: 
-    - image:  /assets/img/beeclick_toast.jpg
-    - image:  /assets/img/person_1_sq.jpg.jpg
 
 ---
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 {% include feature_row %}
