@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: wide
 permalink: /
 hidden: true
 excerpt: home page
@@ -9,12 +9,6 @@ carousels:
 - images:
 - image: /assets/img/beeclick_toast.jpg
 - image: /assets/img/person_1_sq.jpg
-
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
 
 
 feature_row:
