@@ -5,7 +5,7 @@ hidden: true
 excerpt: home page
 author_profile: true
 feature_row:
-  - image_path: /assets/img/src.png
+  - image_path: /assets/img/scr.png
     alt: "SCR"
     title: "Sooner Competitive Robotics"
     excerpt: "I am a mentor for Sooner Competitive Robotics at the University of Oklahoma."
