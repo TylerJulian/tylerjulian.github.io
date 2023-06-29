@@ -22,8 +22,8 @@ feature_row:
     btn_label: "Learn more"  
 carousels:
   - images: 
-    - image: /img/beeclick_toast.jpg
-    - image: /img/person_1_sq.jpg.jpg
+    - image:  /assets/img/beeclick_toast.jpg
+    - image:  /assets/img/person_1_sq.jpg.jpg
 
 ---
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
